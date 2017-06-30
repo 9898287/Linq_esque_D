@@ -4,7 +4,10 @@ This project is (NOT) a (direct) port of a few linq samples demonstrated in http
 
 This project is created only for my personal practice and it's open because I don't want to pay for closing the sources.
 
-Thoughts:
+# Build instructions
+If you have DMD installed, dmd linq\*.d && ./main 
+
+# Random Thoughts:
 1. A few strongholds is better than hundred of weak fortresses.
 2. As we grow, our minds should broaden too.
 
